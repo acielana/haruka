@@ -41,7 +41,7 @@
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Haruka)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/acielana/haruka)
 
 ```bash
  > heroku/nodejs
@@ -64,25 +64,19 @@ You can edit owner and other in `'./settings/config.json'`
 
 ```ts
 {
-	"ownername":"ZeeoneOfc",
-	"ownernumber":"62887435047326",
+	"ownername":"Acielana",
+	"ownernumber":"6281235375978",
 	"botname":"Haruka-Bot",
 	"thumbnail":"./settings/haruka.jpg",
 	"session_name":"./session.json"
 }
 ```
-## Donate
+<!-- ## Donate
 - [Saweria](https://saweria.co/zeeoneofc)
 - [Dana](https://j.top4top.io/p_20532posd1.jpg)
 - [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
+- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg) -->
 
-# Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
 
 # Thanks To
 - My god & my parents
